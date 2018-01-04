@@ -13,7 +13,7 @@
 		"issues": "https://github.com/rixxi/gedmo"
 	},
 	"require": {
-		"nette/di": ">= 2.1 <= 2.4",
+		"nette/di": ">= 2.1",
 		"nette/utils": ">= 2.1 <= 2.4",
 		"kdyby/events": "~3.0|~2.1",
 		"kdyby/doctrine": "~3.0|~2.0|~1.0",
