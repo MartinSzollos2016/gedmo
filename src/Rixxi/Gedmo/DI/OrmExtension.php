@@ -25,6 +25,7 @@ class OrmExtension extends CompilerExtension implements Kdyby\Doctrine\DI\IEntit
 		'translatable' => FALSE,
 		'treeable' => FALSE,
 		'uploadable' => FALSE,
+		'iptraceable' => FALSE,
 	);
 
 	private $annotations = array(
@@ -36,6 +37,7 @@ class OrmExtension extends CompilerExtension implements Kdyby\Doctrine\DI\IEntit
 		'translatable',
 		'treeable',
 		'uploadable',
+		'iptraceable'
 	);
 
 
